@@ -4,6 +4,7 @@
 
 **Candidate:** Ahmed Mushaf
 
+Colab Notebook Link: https://colab.research.google.com/drive/1i0yKak9xZ4Yfz-AWHYrYjggeiluKYTfM?usp=sharing
 ---
 
 ## 🚀 What This Project Shows
